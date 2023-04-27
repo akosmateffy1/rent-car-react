@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/rent-car-react/static/css/main.3659bd81.css",
+    "main.js": "/rent-car-react/static/js/main.5c6fea99.js",
+    "static/media/drive.png": "/rent-car-react/static/media/drive.6bd20e182296ea68fb9b.png",
+    "index.html": "/rent-car-react/index.html",
+    "main.3659bd81.css.map": "/rent-car-react/static/css/main.3659bd81.css.map",
+    "main.5c6fea99.js.map": "/rent-car-react/static/js/main.5c6fea99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3659bd81.css",
+    "static/js/main.5c6fea99.js"
+  ]
+}
